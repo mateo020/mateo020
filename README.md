@@ -38,7 +38,7 @@
 
    ![Machine Learning](https://img.shields.io/badge/Machine_Learning%20-31A8FF.svg?style=for-the-badge&logo=Tecent_Cloud&logoColor=white)
    ![Statistical Analysis](https://img.shields.io/badge/Statistical_Analysis%20-31A8FF.svg?style=for-the-badge&logo=aws&logoColor=white)
-   ![Data Science](https://img.shields.io/badge/Statistical_Analysis%20-31A8FF.svg?style=for-the-badge&logo=aws&logoColor=white)
+   ![Data Science](https://img.shields.io/badge/Data_Sciences%20-31A8FF.svg?style=for-the-badge&logo=aws&logoColor=white)
 
 <br>
 
