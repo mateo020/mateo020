@@ -23,7 +23,7 @@
 - Skilled in software design and development tools, including object-oriented development, design patterns, refactoring, and unit testing.
 - Strong foundation in data analysis and research, demonstrated as a Research Assistant at AR Environmental Solutions.
 - Proficient in Python and R for working with large datasets.
-- Third-year student at The University of Toronto pursuing a Statistics major and minors in Computer Science and Mathematics.
+- Fourth-year student at The University of Toronto pursuing a Statistics major and minors in Computer Science and Mathematics.
 
 <br><br>
 
